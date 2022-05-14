@@ -41,6 +41,5 @@ nav a {
 } 
 #text {
     background-color: rgd(20, 30, 13, 0.7);
-    text-align:left;
-    color:#ffffff
+    text-align:left; 
 }       

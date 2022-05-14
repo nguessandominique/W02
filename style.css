@@ -23,7 +23,7 @@ nav a:hover {
 img {
     display:inline;
     margin: 0 auto;
-    max-width: 625px;
+    max-width: 955px;
 } 
 .icon {
     width: 50px;
@@ -39,3 +39,8 @@ nav a {
     color: #f5f3f0;
     text-decoration: none;
 } 
+#text {
+    background-color: rgd(20, 30, 13, 0.7);
+    text-align:left;
+    color:#ffffff
+}       
